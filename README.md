@@ -1,7 +1,7 @@
 # OIA_Mesadas_De_Granito
 Ejercicio de la OIA
 Consigna
-Enlace al ejercicio original
+Enlace al ejercicio original http://www.oia.unsam.edu.ar/_media/prob/c3a12n4d1p1.pdf
 
 Descripción del problema
 En un negocio de venta de mesadas de granito se deben almacenar N mesadas rectangulares, que serán recibidas de la cantera. Las mesadas tienen el mismo grosor, pero pueden tener distintos ancho y largo.
